@@ -1,0 +1,6 @@
+编码方式使用UTF-8  
+文件最好使用WPS打开
+
+Basic_information：港口代码  所在城市  港口中文名  港口英文名  国家  地区  航线中文名  航线英文名  锚地  港口种类
+Port_Introduce：港口代码  港口介绍
+City_Coordinates： 关键城市名称  所在经度  所在纬度
